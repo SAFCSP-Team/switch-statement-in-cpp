@@ -6,7 +6,7 @@ In this project, our main goal is to understand how to use switch-statement in C
 
 ### Problem
 
-Develop a program that display a student grade based on his score using **switch statement**. 
+Develop a program that displays a student's grade based on his score using **switch statement**. 
 
 |  Score  |  Grade  |
 |:-------:|:-------:|
@@ -25,6 +25,7 @@ Develop a program that display a student grade based on his score using **switch
 #include <iostream>
 
 int main() {
+    int score = 75;
     /* Your code here*/
     return 0;
 }
